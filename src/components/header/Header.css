@@ -1,0 +1,14 @@
+.header{
+  display: flex;
+  justify-content:space-evenly;
+  margin: 0 30%;
+  padding: 1%;
+}
+
+.header a{
+  text-decoration: none;
+  font-size: larger;
+  color: black;
+  /* background: gray; */
+  padding: 1%;
+}
